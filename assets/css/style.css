@@ -1,0 +1,44 @@
+html {
+    box-sizing: border-box;
+  }
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body {
+    background-image: "/Users/Macintosh/Documents/Basic-Portfolio/assets/images";
+    width: 980px;
+    align-content: center;
+}
+header {
+    background-color: lightgrey;
+    border: 1px solid black;
+    clear: both;
+}
+h1 {
+    float: left;
+    background-color: darkgoldenrod;
+    padding: 20px;
+    text-align: center;
+    color: black;
+    clear: both;
+}
+
+li {
+    float: right;
+    font-size: 20px;
+    margin: 30px;
+    
+}
+section {
+    float: left;
+    color: black;
+    outline-color: black;
+}
+.img {
+    float: left;
+}
+footer {
+    text-align: center;
+    clear: both;
+}
+
